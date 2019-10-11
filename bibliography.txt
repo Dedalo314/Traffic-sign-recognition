@@ -1,0 +1,22 @@
+1. Douville, P.: Real-time classification of traffic signs. Real-Time Imaging, 6(3), 185–193 (2000)
+2. Real	Time Road Signs	Recognition. Alberto Broggi, Pietro Cerri, Paolo Medici, Pier Paolo Porta (2007)
+3. Real Time Road Signs Classification. Paolo Medici, Caludio Caraffi, Elena Cardarelli, Pier Paolo Porta, Guido Ghisio (2008)
+4. CImg Documentation
+5. OpenCV Documentation
+6. FANN Documentation (including http://fann.sourceforge.net/fann_en.pdf)
+7. http://www.visionbib.com/bibliography/active693.html
+8. Reconocimiento de imágenes utilizando redes neuronales artificiales. Pedro Pablo García García (2013)
+9. StackOverflow (lookups)
+10. Detección de bordes en una imagen. Universidad de Jaén, práctica 3.
+11. Redes neuronales aplicadas al análisis de imágenes para el desarrollo de un prototipo de un sistema de seguridad. Gabriel Felipe Jaramillo González (2009)
+12. Redes neuronales artificiales para el procesamiento de imágenes, una revisión de la última década. Ramírez Q. Juan A. y Chacón M. Mario I.(2011)
+13. Reconocimiento de patrones mediante redes neuronales artifiales. Hugo Vega Huerta, Augusto Cortez Vásquez, Ana María Huayna, Luis Alarcón Loayza, Pablo Romero Naupari (2009)
+14. Traffic-Signs recognition systems. Sergio Escalera, Xavier Baró, Oriol Pujol, Jordi Vitrià, Petia Radeva (2011)
+15. Road Traffic Sign Detection and Classification. Arturo de la Escalera, Member, IEEE, Luis E. Moreno, Member, IEEE, Miguel Angel Salichs, Member, IEEE, and José María Armingol (1997)
+16. http://www.doc.ic.ac.uk/~nd/surprise_96/journal/vol4/cs11/report.html#Architecture%20of%20neural%20networks
+17. http://www.lcc.uma.es/~munozp/documentos/procesamiento_de_imagenes/temas/pi_cap6.pdf
+18. http://www.cs.bham.ac.uk/~jxb/NN/nn.html
+19. http://disp.ee.ntu.edu.tw/meeting/%E6%98%B1%E7%BF%94/Segmentation%20tutorial.pdf
+20. Analysis of Hu's Moment Invariants on Image Scaling and Rotation. Zhihu Huang, Jinsong Leng (2010) |http://ro.ecu.edu.au/cgi/viewcontent.cgi?article=7351&context=ecuworks|
+
+
